@@ -134,7 +134,7 @@ This script uses the moviepy library to compile the final video.
     ```
 
 Video output
-[https://github.com/narkov/justai/blob/main/result.mp4](https://github.com/narkov/justai/blob/main/result.mp4)    
+(https://github.com/MyroslavG/VIDEO-AD-CREATION-TOOL/blob/main/images/result.mp4)   
 
 ## Environment Variables
 Create a `.env` file to customize the setup:
